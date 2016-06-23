@@ -6,9 +6,9 @@ color:
   saturation: 0.2563484855927527
   rhythmicContrast: 0.982245828025043
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: SmartWork
