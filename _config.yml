@@ -1,0 +1,14 @@
+layout_spectrum: 0.711008463986218
+typography_spectrum: 0.557809469057247
+color:
+  brandStrength: 0.33488766150549054
+  lightness: 0.12358446652069688
+  saturation: 0.2563484855927527
+  rhythmicContrast: 0.982245828025043
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: SmartWork
